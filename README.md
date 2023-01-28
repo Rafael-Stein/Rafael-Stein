@@ -19,7 +19,7 @@
 ### Bancos de dados
 <div>
   <br>
-  <img align="center" alt="Rafael-Stein-MicrosoftSQL" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Rafael-Stein-MicrosoftSQL" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
   <img align="center" alt="Rafael-Stein-MySQL" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <br>
 </div>
