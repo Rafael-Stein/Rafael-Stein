@@ -23,6 +23,6 @@
 
 <div>
   <a href="https://www.linkedin.com/in/rafael-s-stein/" target="_blank">
-    <img alt="Linkedin-Rafael-Stein" target="_blank" src="https://img.shields.io/badge/-Linkedin-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+    <img alt="Linkedin-Rafael-Stein" src="https://img.shields.io/badge/-Linkedin-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 </div>
