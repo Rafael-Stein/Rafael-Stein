@@ -26,7 +26,3 @@
     <img alt="Linkedin-Rafael-Stein" src="https://img.shields.io/badge/-Linkedin-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 </div>
-
-##
-
-> 🔭 Gosto de trabalhar com programação, pois design não é meu ponto forte
