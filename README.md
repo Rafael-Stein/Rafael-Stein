@@ -33,4 +33,4 @@
 
 <br>
 
-- 🔭 Gosto de trabalhar com programação, pois design não é meu ponto forte
+> 🔭 Gosto de trabalhar com programação, pois design não é meu ponto forte
